@@ -1,9 +1,2 @@
-/disk/*
-!/disk/.gitkeep
-*.map
-*.tar
-*.o
-*.elf
+.gitignore
 *.bin
-*.log
-*.pcap
